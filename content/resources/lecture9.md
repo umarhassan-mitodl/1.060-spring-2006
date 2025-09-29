@@ -4,6 +4,8 @@ description: This resource provides information on reynolds transport theorem.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/a20ae07928f1c3405f29468952b7329c_lecture9.pdf
 file_size: 422066
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

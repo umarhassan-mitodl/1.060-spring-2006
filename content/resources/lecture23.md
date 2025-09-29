@@ -5,6 +5,8 @@ description: 'This resource provides information on the topic: open channel flow
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/7c3f510d33597667ad6a1d1048c620b9_lecture23.pdf
 file_size: 1086606
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

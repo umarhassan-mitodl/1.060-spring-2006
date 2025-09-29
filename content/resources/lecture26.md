@@ -5,6 +5,8 @@ description: This resource provides information on the specific head-depth diagr
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/c700780b35323a7a8a56d059b1d808ed_lecture26.pdf
 file_size: 1042745
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

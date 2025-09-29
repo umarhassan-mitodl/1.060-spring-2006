@@ -5,6 +5,8 @@ description: This resource provides a number of problems taken from the 2005 in-
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/76dd466c82b4fd081432aa56f96553e8_sampletest_2.pdf
 file_size: 2013214
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

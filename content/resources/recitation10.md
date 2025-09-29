@@ -5,6 +5,8 @@ description: This resource provides a number problems for the last recitation, a
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/a7991ea2e31fe5d509ab4ae467d17f97_recitation10.pdf
 file_size: 1510976
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

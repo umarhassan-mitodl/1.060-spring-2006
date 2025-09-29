@@ -5,6 +5,8 @@ description: 'This resource provides information on recitation topic: review of 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3b6bd7c763c7278ab5d9878c27a14831_recitation1.pdf
 file_size: 1012772
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

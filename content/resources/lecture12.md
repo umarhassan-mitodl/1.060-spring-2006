@@ -5,6 +5,8 @@ description: This resource provides information on the momentum principle for a 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/f1acb13bc75ffc8b5811910d7572d8e6_lecture12.pdf
 file_size: 939752
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

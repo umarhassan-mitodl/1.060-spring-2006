@@ -5,6 +5,8 @@ description: This resource provides examples for flow contraction, free outfloe 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/2c100b3ba605a3ec1e48cc4cc58c5045_recitation3.pdf
 file_size: 2148938
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource provides solutions to the eighth problem set on engin
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/149b78e4a01a939bab5748614fefc87c_ps8_solutions.pdf
 file_size: 1716815
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

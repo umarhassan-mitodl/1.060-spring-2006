@@ -5,6 +5,8 @@ description: This resource provides information on the frachtional head loss in 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3a800660e36bf54f7920afabc2cdd229_lecture16.pdf
 file_size: 1219132
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

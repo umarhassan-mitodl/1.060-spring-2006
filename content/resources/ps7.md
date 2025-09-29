@@ -5,6 +5,8 @@ description: This resource provides a set of five problems on engineering mechan
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/1c0276505e4fbfa260693f200482e7f8_ps7.pdf
 file_size: 144188
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

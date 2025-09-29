@@ -5,6 +5,8 @@ description: This resource provides information on mass and volume conservation,
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/d05497d6b724d6cf8bd95b7c3c3ee4e2_lecture5.pdf
 file_size: 431217
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

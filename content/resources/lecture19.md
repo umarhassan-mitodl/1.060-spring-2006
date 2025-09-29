@@ -4,6 +4,8 @@ description: This resource provides information on turbines, and total energy co
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3859122abb0d13440138b3751dd000a0_lecture19.pdf
 file_size: 612120
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

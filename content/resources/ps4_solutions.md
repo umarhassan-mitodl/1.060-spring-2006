@@ -5,6 +5,8 @@ description: This resource provides solutions to the fourth problem set on engin
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/0a7b54e335fc0ca6f636923234e8f94a_ps4_solutions.pdf
 file_size: 2211161
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

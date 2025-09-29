@@ -5,6 +5,8 @@ description: This resource provides solutions to the problem set 2 for engineeri
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/11463efa234a8595e0e9538af7f3f0f3_ps2_solutions.pdf
 file_size: 1368805
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource provides solutions to the ninth problem set on engine
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/ab0471dbfddb599221e975688274ba3b_ps9_solutions.pdf
 file_size: 1657869
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

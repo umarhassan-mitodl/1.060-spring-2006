@@ -5,6 +5,8 @@ description: This resource contains six questions related to one problem on engi
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/9232cc5820582b98ef8ab14afd8ce429_test3_solutions.pdf
 file_size: 1155620
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

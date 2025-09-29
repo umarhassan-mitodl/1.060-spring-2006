@@ -4,6 +4,8 @@ description: This resource provides some more examples of gradually varied flow 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/13130cf95e1abf55d45cf6e45b43e80c_lecture32.pdf
 file_size: 1765670
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

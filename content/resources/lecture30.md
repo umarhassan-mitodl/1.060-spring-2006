@@ -5,6 +5,8 @@ description: This resource provides information on gradually varied flow profile
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/fcd9766c90f5a533de96c18c587dd706_lecture30.pdf
 file_size: 2381240
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
