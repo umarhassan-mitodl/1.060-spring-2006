@@ -5,8 +5,6 @@ description: This resource provides information about the unassisted hydraulic j
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/71a7ff9a25a6de1f3554777e51c8d6d1_lecture28.pdf
 file_size: 1217740
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

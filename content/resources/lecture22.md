@@ -5,8 +5,6 @@ description: This resource provides information on a special lecture in honour o
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/009850cb15625de6ec4316edb9148eb7_lecture22.pdf
 file_size: 360932
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information on the application of mass conse
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3f0c904fd7b45e855da54014e5e03536_lecture8.pdf
 file_size: 811425
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information on the analysis of pipe flow, an
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/ce5cca64010527934a51b302cec77d48_lecture17.pdf
 file_size: 907865
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

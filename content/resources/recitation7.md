@@ -4,8 +4,6 @@ description: This resource provides additional information on floating body stab
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/81dc82b1554411f54fb56ca9cc6c2e98_recitation7.pdf
 file_size: 1323365
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

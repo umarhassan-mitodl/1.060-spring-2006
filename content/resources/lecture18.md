@@ -5,8 +5,6 @@ description: This resource provides information on pump specifications and requi
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/85903745c0387565d38e6b47c146d4c7_lecture18.pdf
 file_size: 1225663
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

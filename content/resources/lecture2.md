@@ -5,8 +5,6 @@ description: This resource provides information on the continuum hypothesis, com
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/a41106137cd5e1792e8a4d52c1b0bddd_lecture2.pdf
 file_size: 1050394
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

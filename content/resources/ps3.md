@@ -5,8 +5,6 @@ description: This resource provides six questions as part of third problem set f
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/b62c73f0b4b973c4e03bd319cce3dfff_ps3.pdf
 file_size: 147400
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

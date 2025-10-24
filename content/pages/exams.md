@@ -2,8 +2,6 @@
 content_type: page
 description: This section lists out test exam files along with files from sample exams
   and previously held exams.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

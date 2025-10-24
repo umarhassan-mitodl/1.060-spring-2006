@@ -5,8 +5,6 @@ description: This resource provides information on uniform flow computation, and
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/1acddf1865783b082af137cdae04e648_lecture24.pdf
 file_size: 836845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

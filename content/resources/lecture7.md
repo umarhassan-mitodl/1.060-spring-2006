@@ -5,8 +5,6 @@ description: This resource provides a derivation of the Bernoulli equation, and 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/9c06f3cd2a34e31f3c77b53f630d726b_lecture7.pdf
 file_size: 929090
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

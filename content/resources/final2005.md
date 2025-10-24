@@ -5,8 +5,6 @@ description: This resource provides a set of six problems for the final examinat
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/aec6be6a8442e5883afc01ac7f8ebaf5_final2005.pdf
 file_size: 2354800
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

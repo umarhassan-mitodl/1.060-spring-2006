@@ -5,8 +5,6 @@ description: This resource provides information on the common feature of solid m
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/6429bd7937c3799b82375ba1d9031821_lecture1.pdf
 file_size: 1003334
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

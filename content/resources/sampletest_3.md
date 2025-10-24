@@ -5,8 +5,6 @@ description: This resource contains three problems taken from the second test on
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/73c0c520de9ff3e4fc1b85172e76dedb_sampletest_3.pdf
 file_size: 1816777
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information on conservation of volume for a 
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/2c631b28e2db69b9920546f576dcc98b_lecture6.pdf
 file_size: 2046220
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

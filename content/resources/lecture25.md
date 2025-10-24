@@ -5,8 +5,6 @@ description: This resource provides information on the energy (bernoulli) princi
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/aeeab557646cad0f2720e6634d4d3ae1_lecture25.pdf
 file_size: 816488
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

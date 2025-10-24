@@ -5,8 +5,6 @@ description: This resource provides solutions of the sixth roblem set on enginee
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/ed26020b03e25f3b7d0fb813e9b03212_ps6_solutions.pdf
 file_size: 1809001
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
